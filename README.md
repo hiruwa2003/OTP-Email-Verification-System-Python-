@@ -53,3 +53,5 @@ Enter the target email & verify OTP
  Important
 
 Use a Gmail App Password (NOT your normal password) for security.
+
+Author -> Hirusha Dilshan
